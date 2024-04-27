@@ -6,4 +6,4 @@ This project collects a library of Home Assistant composite dashboard cards from
 1. download it repo using zip and uncompress it
 2. install python in your system
 3. edit and run my_cards.py
-4. a yaml file called my_cards.yaml will be generated
+4. a yaml file called my_cards.yaml will be generated in the same directory of my_cards.py
